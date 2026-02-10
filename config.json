@@ -1,0 +1,11 @@
+{
+    "video_source": 0,
+    "bg_frames": 20,
+    "min_area": 5000,
+    "roi": [150, 100, 300, 300],
+    "alert_after_hours": [22, 6],
+    "record_duration": 5,
+    "save_videos": true,
+    "play_sound": false,
+    "output_fps": 20
+}
